@@ -1544,7 +1544,7 @@ pre {
     color: #fff;
     background-color: rgba(255, 255, 255, 0.075); }
 
-@media (max-width: 575.98px) {
+@media (max-width: 1000px) {
   .table-responsive-sm {
     display: block;
     width: 100%;
@@ -8156,7 +8156,7 @@ h1, h2, h3, h4, h5,
 .h1, .h2, .h3, .h4, .h5 {
   line-height: 1.5;
   font-weight: 400;
-  font-family: "Lato", Arial, sans-serif;
+  font-family: "Lato", Times New Roman, sans-serif;
   color: #000; }
 
 .bg-primary {
